@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Voice &amp; Toggle Controlled Home Automation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ct">Current Time</string>
+    <string name="designed">Designed by</string>
+    <string name="asr">Sai Rohith Achanta</string>
+    <string name="ap">Aishwarya Palagummi</string>
+    <string name="arn">12211A1268</string>
+    <string name="fi">INFORMATION</string>
+    <string name="ft">TECHNOLOGY</string>
+    <string name="timer">Timer</string>
+    <string name="prn">12211A1203</string>
+    <string name="fm">Faculty Mentor</string>
+    <string name="fn">D.Madhusudhan Reddy</string>
+    <string name="fa">Assisted by</string>
+    <string name="an">G.Rajaram Srinivas</string>  
+    <string name="action_settings">Settings</string>
+    <string name="b1">Voice Controlled</string>
+    <string name="b2">Toggle Controlled</string>
+    <string name="b3">About Us</string>
+    <string name="tv1">Your Choice</string>
+    <string name="tv2">Toggle</string>
+    <string name="tv3">Device:1</string>
+    <string name="tv4">Device:2</string>
+    <string name="tv5">Device:3</string>
+    <string name="tv6">Device:4</string>
+    <string name="tv7">Device:5</string>
+    <string name="tv8">Device:6</string>
+    <string name="tv9">Device:7</string>
+    <string name="tv10">Device:8</string>
+<string name="tv11">Voice</string>
+<string name="tv12">Display Text</string>
+ <string name="send">Send</string>
+ <string name="textView2">Display Text</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting</string>
+  <!-- <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>-->
+    <string name="title_not_connected">not connected</string>
+
+
+<string name="b4">Press Here</string>   
+ <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!-- Options Menu -->
+    <string name="secure_connect">Connect a device - Secure</string>
+    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="discoverable">Make discoverable</string>
+    
+</resources>
